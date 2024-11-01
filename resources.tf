@@ -2,7 +2,7 @@ locals {
   prefix = "CICD"  
   queue_prefix = "Q"
   wuc_prefix = "WUC"
-  lobs = ["Sales","Support","Info"]
+  lobs = ["Sales","Support","Info","New_Customers"]
 
 }
 
